@@ -1,0 +1,4 @@
+2024-03-10 00:44:09.118 [warning] Creation of workbench contribution 'workbench.contrib.explorerViewletViews' took 32ms.
+2024-03-10 00:44:10.147 [info] Started local extension host with pid 31341.
+2024-03-10 00:44:10.819 [info] Started initializing default profile extensions in extensions installation folder. file:///root/.vscode/extensions
+2024-03-10 00:44:13.506 [info] Completed initializing default profile extensions in extensions installation folder. file:///root/.vscode/extensions
